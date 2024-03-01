@@ -1,5 +1,5 @@
 {
-  "name": "process_monitor",
+  "name": "process-tool_manager",
   "version": "1.0.0",
   "description": "tool for process managing and monitoring",
   "main": "./src/index.js",
